@@ -26,47 +26,31 @@ I work with a **build-first approach**:
 
 ##  Tech Stack
 
-###  Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
-###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
-###  Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-###  Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### Tools
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-###  AI Assistants
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-black?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
----
-
-##  GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=NAVIN2709&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAVIN2709&layout=compact&theme=tokyonight)
-
----
 
 ##  Streak
 
