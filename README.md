@@ -1,72 +1,55 @@
 # 👋 Hi there, I'm Navin
 
-🚀 AI + Full Stack Developer | ⚡ Building fast, learning faster
+🎓 Sophomore @ NIT Trichy | 🤖 AI + Full Stack Builder | 🚀 Project-driven Developer
 
 ---
 
 ## 🧠 About Me
 
-I'm a developer focused on building **AI-powered products and scalable full-stack systems**.  
-I enjoy turning complex ideas into working solutions — fast.
+I'm Navin, a sophomore at NIT Trichy who loves building **cool, real-world projects** — especially where AI meets full-stack systems.
 
-Currently, I'm:
-- 🤖 Building AI tools & multi-agent systems  
-- 📊 Exploring RAG, analytics & LLM pipelines  
-- 💻 Strengthening DSA + backend architecture  
-
-I’ve worked across **frontend, backend, and databases**, building apps using modern stacks and real-world authentication systems.
+I spend most of my time:
+- ⚡ Building fast and experimenting with ideas  
+- 🤖 Working with AI assistants & LLM workflows  
+- 🧩 Designing full-stack apps with solid backend systems  
 
 ---
 
-## 🚀 Experience / Builder Mindset
+## 🚀 Builder Mindset
 
-I approach development with a **build-first mentality** — focusing on execution, iteration, and shipping.
+I’m not just learning tech — I **build with it**.
 
-- ⚡ Rapid prototyping → idea to product quickly  
-- 🧩 Strong backend thinking → auth, APIs, DB design  
-- 🎯 Focus on real-world use cases, not just tutorials  
+- 🛠️ Turn ideas into working products quickly  
+- 🧠 Use AI tools to accelerate development  
+- 🔁 Iterate, improve, and ship  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
 
-### 🌐 Frontend
+### 🌐 Full Stack
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js)
-
-### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask)
+
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 
-### 🔐 Auth & Systems
-![JWT](https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Auth-0A0A0A?style=for-the-badge)
-
-### 🤖 AI / Data
-![AI](https://img.shields.io/badge/AI-0A0A0A?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
+### 🤖 AI Workflow
+![OpenAI](https://img.shields.io/badge/ChatGPT-0A0A0A?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-0A0A0A?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-0A0A0A?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-0A0A0A?style=for-the-badge)
 
 ---
-
-## 🚀 Projects
-
-- 🔹 **AI JEE Solver** → Converts questions into animated explainer videos (Manim)  
-- 🔹 **AI Agents System** → Scalable multi-agent architecture  
-- 🔹 **Full Stack Apps** → MERN + Next.js + PostgreSQL + Auth  
-- 🔹 **Analytics + AI Stack** → Data + LLM pipelines  
-
----
-
-## 📡 Current Activity
-
-```text
-⚡ Building AI products
-📚 Learning advanced AI + system design
-🚀 Shipping projects consistently
