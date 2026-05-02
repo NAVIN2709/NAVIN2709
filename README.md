@@ -65,9 +65,9 @@ I work with a **build-first approach**:
 
 ##  Connect With Me
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter)](https://x.com/navinnit2006)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/navinnit2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navin-kumar-nj/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:navinnit2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinnit2006@gmail.com)
 
 ---
 
