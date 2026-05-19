@@ -1,21 +1,21 @@
 # 👋 Hi there, I'm Navin
 
-🎓 Sophomore @ NIT Trichy |  AI + Full Stack Builder |  Project-driven
+🎓 Sophomore @ NIT Trichy | AI + Full Stack Builder | Project-driven
 
 ---
 
-##  About Me
+## About Me
 
 I’m Navin — I like building **cool, real-world projects**, especially where  
 AI meets full-stack systems.
 
--  Build fast, iterate faster  
--  Use AI tools to accelerate development  
--  Focus on backend + real-world systems  
+- 🚀 Build fast, iterate faster  
+- 🤖 Use AI tools to accelerate development  
+- 🛠 Focus on backend + real-world systems  
 
 ---
 
-##  Experience / Mindset
+## Experience / Mindset
 
 I work with a **build-first approach**:
 - Turn ideas → working products quickly  
@@ -24,7 +24,7 @@ I work with a **build-first approach**:
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,19 +51,15 @@ I work with a **build-first approach**:
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![MistralAI](https://img.shields.io/badge/mistralai-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
 
-##  Streak
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NAVIN2709&theme=tokyonight)
+## 📊 GitHub Heatmap
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/NAVIN2709)
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAVIN2709&theme=tokyo-night)
-
----
-
-##  Connect With Me
+## Connect With Me
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/navinnit2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navin-kumar-nj/)
@@ -71,7 +67,7 @@ I work with a **build-first approach**:
 
 ---
 
-##  Current Status
+## Current Status
 
 ```text
 Building AI-first products
