@@ -198,14 +198,6 @@ Software Engineering
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NAVIN2709&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVIN2709&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
 <br/>
 
 <div align="center">
